@@ -23,8 +23,8 @@
   --overlay-background-color:lightgrey;
 
   /* fonts */
-  --body-font-family: "Noto Sans", Arial, Helvetica, sans-serif;
-  --heading-font-family: "Noto Serif", Georgia, serif;
+  --body-font-family: "Noto Sans", arial, helvetica, sans-serif;
+  --heading-font-family: "Noto Serif", georgia, serif;
 
   /* body sizes */
   --body-font-size-m: 18px;
